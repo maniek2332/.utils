@@ -35,6 +35,6 @@ function create_rcfile {
     echo "Don't forget to source the .utils/utils.rc!"
 }
 
-#make_stderred
+make_stderred
 create_rcfile
 
