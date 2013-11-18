@@ -1,0 +1,4 @@
+[submodule "submodules/stderred"]
+	path = submodules/stderred
+	url = git://github.com/sickill/stderred.git
+    ignore=dirty
