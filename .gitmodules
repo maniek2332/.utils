@@ -2,3 +2,9 @@
 	path = submodules/stderred
 	url = git://github.com/sickill/stderred.git
     ignore=dirty
+[submodule "submodules/sack"]
+	path = submodules/sack
+	url = https://github.com/maniek2332/sack
+[submodule ".utils"]
+	path = .utils
+	url = https://github.com/maniek2332/.utils
